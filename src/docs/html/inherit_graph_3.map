@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classLayer.html" title="Layer" alt="" coords="5,56,60,83"/>
+<area shape="rect" id="node2" href="$classDenseLayer.html" title="DenseLayer" alt="" coords="108,5,200,32"/>
+<area shape="rect" id="node3" href="$classInputLayer.html" title="InputLayer" alt="" coords="113,56,195,83"/>
+<area shape="rect" id="node4" href="$classLossLayer.html" title="LossLayer" alt="" coords="113,107,195,133"/>
+<area shape="rect" id="node5" href="$classCrossEntropyError.html" title="CrossEntropyError" alt="" coords="248,81,379,108"/>
+<area shape="rect" id="node6" href="$classMSE.html" title="MSE" alt="" coords="288,132,339,159"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="LossLayer" name="LossLayer">
+<area shape="rect" id="node3" href="$classCrossEntropyError.html" title="CrossEntropyError" alt="" coords="5,155,136,181"/>
+<area shape="rect" id="node4" href="$classMSE.html" title="MSE" alt="" coords="160,155,211,181"/>
+<area shape="rect" id="node2" href="$classLayer.html" title="Layer" alt="" coords="101,5,155,32"/>
+</map>

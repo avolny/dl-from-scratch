@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classOptimizer.html" title="Optimizer" alt="" coords="5,31,84,57"/>
+<area shape="rect" id="node2" href="$classRMSProp.html" title="RMSProp" alt="" coords="132,5,211,32"/>
+<area shape="rect" id="node3" href="$classSGD.html" title="SGD" alt="" coords="146,56,197,83"/>
+</map>
